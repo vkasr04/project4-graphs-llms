@@ -1,0 +1,25 @@
+Source,Target,Weight
+Luke Skywalker,Darth Vader,5
+Han Solo,Leia Organa,7
+Leia Organa,Luke Skywalker,4
+Han Solo,Luke Skywalker,3
+Obi-Wan Kenobi,Darth Vader,6
+Darth Vader,Emperor Palpatine,8
+Yoda,Luke Skywalker,5
+Yoda,Obi-Wan Kenobi,6
+Leia Organa,Chewbacca,4
+C-3PO,R2-D2,9
+Chewbacca,Hans Solo,10
+Darth Vader,Luke Skywalker,7
+Leia Organa,Han Solo,6
+Emperor Palpatine,Anakin Skywalker,4
+Darth Vader,Leia Organa,2
+Qui-Gon Jinn,Obi-Wan Kenobi,5
+Jabba the Hutt,Hans Solo,2
+Boba Fett,Han Solo,3
+Yoda,Darth Vader,3
+Lando Calrissian,Hans Solo,2
+R2-D2,Anakin Skywalker,5
+Anakin Skywalker,Padmé Amidala,8
+C-3PO,Leia Organa,3
+Padmé Amidala,Obi-Wan Kenobi,4
